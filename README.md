@@ -1,4 +1,4 @@
-# Data_Science
+# Data Science aplicado à Saúde
 Meu repositório de projetos para data science
 [![author](https://img.shields.io/badge/author-MatheusStillner-red.svg)](www.linkedin.com/in/matheus-stillner-eufranio) [![](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MatheusStillnerEufranio)
 
@@ -21,5 +21,6 @@ Busco por meio da programação otimizar o trabalho médico e garantir um maior 
 ## Projetos:
 
 * **Machine learning para detecção de câncer de mama:**
+* **Análise do suicídio do Brasil:**
 
 ---
